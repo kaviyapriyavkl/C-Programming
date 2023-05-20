@@ -14,7 +14,7 @@ int main()
 	{
 		
 		
-	printf("\n enter the number ");
+	printf("\n Enter the number ");
 	scanf("%d",&a[i]);
 	sum=sum+a[i];
 	
