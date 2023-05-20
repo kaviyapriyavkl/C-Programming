@@ -13,7 +13,6 @@ int main()
 	
 	{
 		
-		
 	printf("\n Enter the number ");
 	scanf("%d",&a[i]);
 	sum=sum+a[i];
