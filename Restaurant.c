@@ -2,7 +2,6 @@
 #include<string.h>
 #include<stdlib.h>
 
-
 double price[7] = {15.80 , 10.50 , 19.00 , 14.00 , 12.00 , 22.00 , 16.00 };
 double mealTaxPrices[7];
 int adultNumber,childNumber;
